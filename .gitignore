@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset
+data/
+*.zip
+
+# Virtual Environment
+venv/
+.env
+
+# Model checkpoints
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
