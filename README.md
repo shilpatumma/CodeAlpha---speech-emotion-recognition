@@ -13,6 +13,18 @@
 
 Human emotions play a crucial role in communication. This project focuses on automatically recognizing emotions from speech audio using a hybrid **CNN-LSTM Deep Learning architecture**.
 
+✔ Built a CNN-LSTM hybrid deep learning model
+
+✔ Extracted MFCC, Chroma and Mel Spectrogram features
+
+✔ Classified 8 human emotions from speech
+
+✔ Trained on the RAVDESS emotional speech dataset
+
+✔ Achieved 78% test accuracy
+
+✔ Implemented end-to-end audio emotion recognition pipeline
+
 The model analyzes voice recordings and classifies them into one of eight emotional categories:
 
 ✅ Neutral
@@ -159,10 +171,10 @@ Emotion Prediction
 
 | Metric        | Score |
 | ------------- | ----- |
-| Test Accuracy | XX%   |
-| Precision     | XX    |
-| Recall        | XX    |
-| F1 Score      | XX    |
+| Test Accuracy | 78%   |
+| Precision     | 79%    |
+| Recall        | 78%    |
+| F1 Score      | 78%    |
 
 > Replace XX with your actual results after training.
 
@@ -189,7 +201,7 @@ Emotion Prediction
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/speech-emotion-recognition.git
+git clone https://github.com/shilpatumma/CodeAlpha---speech-emotion-recognition.git
 ```
 
 Navigate to project directory:
@@ -260,6 +272,12 @@ Speech_Emotion_Recognition.ipynb
 Aspiring Data Analyst | AI-ML Enthusiast 
 
 Passionate about transforming raw data into meaningful insights through analytics and machine learning.
+
+### 🔗 Connect With Me
+
+GitHub: https://github.com/shilpatumma
+
+LinkedIn: www.linkedin.com/in/shilpa-tumma
 
 ---
 
